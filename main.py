@@ -1,3 +1,3 @@
 
 #This program prints hello, world
-print("Hello, WORLD")
+print("Hello, MEDIA")
